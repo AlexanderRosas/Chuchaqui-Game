@@ -18,7 +18,7 @@ git clone https://github.com/AlexanderRosas/ChuchaquiGame.git
 ## 2. Importar Modelos 3D (Archivos .obj)
 Debido al tamaño de los modelos, estos se encuentran alojados en OneDrive. Debes mantener la estructura de carpetas exacta.
 
-1. Accede al siguiente enlace: **[Modelos en OneDrive]([https://ejemplo.com](https://epnecuador-my.sharepoint.com/:f:/g/personal/alvaro_montalvan_epn_edu_ec/IgDSUnvR6EqqQI8j6jANuX0gAZVmG-H_vRqF0VUrUyzui2E?e=xYKvWP))**
+1. Accede al siguiente enlace: **[Modelos en OneDrive](https://epnecuador-my.sharepoint.com/:f:/g/personal/alvaro_montalvan_epn_edu_ec/IgDSUnvR6EqqQI8j6jANuX0gAZVmG-H_vRqF0VUrUyzui2E?e=xYKvWP)**
   
 2. Descarga los archivos `.obj` que están dentro de cada subcarpeta.  
 3. Copia cada modelo en su carpeta correspondiente en tu equipo local:
