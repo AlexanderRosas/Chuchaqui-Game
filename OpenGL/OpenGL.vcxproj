@@ -128,13 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Users\alvar\Desktop\Sources\glad\src\glad.c" />
+    <ClCompile Include="..\OpenGL_Stuff\Library\glad.c" />
     <ClCompile Include="Chuchaqui.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="textures\texture_floor.jpg" />
-    <Image Include="textures\texture_model.png" />
-    <Image Include="textures\texture_model_2.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders\fragmentshader.fs" />

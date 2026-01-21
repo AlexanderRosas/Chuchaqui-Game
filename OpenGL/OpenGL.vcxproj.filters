@@ -24,20 +24,9 @@
     <ClCompile Include="Chuchaqui.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Users\alvar\Desktop\Sources\glad\src\glad.c">
+    <ClCompile Include="..\OpenGL_Stuff\Library\glad.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="textures\texture_floor.jpg">
-      <Filter>Archivos de origen\textures</Filter>
-    </Image>
-    <Image Include="textures\texture_model.png">
-      <Filter>Archivos de origen\textures</Filter>
-    </Image>
-    <Image Include="textures\texture_model_2.png">
-      <Filter>Archivos de origen\textures</Filter>
-    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="shaders\fragmentshader.fs">
