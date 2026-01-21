@@ -37,7 +37,8 @@ No mezcles los archivos, cada uno debe ir en la carpeta con su mismo nombre.
 
 ## 3. Configuración de Librerías (Assimp)
 Para que el ejecutable funcione en modo depuración, necesitas la librería dinámica de Assimp.
-Antes debes conpilar el pryecto para que se genere la carpeta x64 Debug
+
+Antes debes conmpilar el priyecto para que se genere la carpeta x64 Debug.
 
 1. Localiza tu archivo compilado `assimp-vc143-mtd.dll`.  
 2. Pégalo en las siguientes rutas:
